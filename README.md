@@ -6,10 +6,10 @@ This project tells whether a country is developed, developing or under-developed
 
 ## Getting Started
 
-These instructions will tell you how wxactly the project works
+These instructions will tell you how exactly the project works
 
 
-The datasets file contains all the datasets needed for our project. 
+The dataset files contains all the datasets needed for our project. 
 
 ### Installing Libraries 
 
