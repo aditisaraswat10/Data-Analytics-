@@ -1,6 +1,6 @@
 # Data-Analytics-
 COURSEWORK- Data Analytics 
-# Prediction and Classification of countries based on their rate level of Development 
+# Prediction and Classification of countries based on their level of Development 
 
 This project tells whether a country is developed, developing or under-developed by looking and calculating it's HDI values.
 
